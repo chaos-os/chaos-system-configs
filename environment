@@ -1,0 +1,8 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+QT_QPA_PLATFORMTHEME=qt5ct
+LSP_USE_PLISTS=true
+MANPAGER="sh -c 'col -bx | bat -l man -p'"
