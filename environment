@@ -9,3 +9,4 @@ GLFW_IM_MODULE=none
 MANPAGER="sh -c 'col -bx | bat -l man -p'"
 EDITOR=nvim
 RUST_WRAPPER=sccache
+LD_BIND_NOW=1
