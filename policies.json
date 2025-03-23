@@ -19,9 +19,7 @@
     "DisplayBookmarksToolbar": "never",
     "HardwareAcceleration": true,
     "DNSOverHTTPS": {
-      "Enabled": true,
-      "__COMMENT__ More Information": "https://mullvad.net/en/help/dns-over-https-and-dns-over-tls",
-      "ProviderURL": "https://base.dns.mullvad.net/dns-query",
+      "Enabled": false,
       "Locked": true
     },
     "EnableTrackingProtection": {
